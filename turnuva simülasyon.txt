@@ -1,0 +1,33 @@
+A GRUBU
+
+TEAM 1 -> 7 PUAN
+TEAM 2 -> 4 PUAN
+TEAM 4 -> 3 PUAN
+TEAM 3 -> 3 PUAN
+					QUARTER FINALS
+		
+					TEAM 1   3-2	TEAM 5
+B GRUBU										SEMI FINALS
+
+TEAM 7 -> 5 PUAN			TEAM 2   3-1	TEAM 7			TEAM 1   2-1  TEAM 2		
+TEAM 5 -> 4 PUAN													FINALS
+TEAM 8 -> 4 PUAN													
+TEAM 6 -> 2 PUAN			TEAM 10  5-1	TEAM 16			TEAM 10  3-1  TEAM 14			TEAM 1  1-3 TEAM 10	
+
+					
+					TEAM 11  1-3    TEAM 14
+C GRUBU												
+
+TEAM 10 -> 9 PUAN
+TEAM 11 -> 4 PUAN
+TEAM 12 -> 4 PUAN
+TEAM 9 -> 0 PUAN
+
+
+
+D GRUBU
+
+TEAM 14 -> 9 PUAN
+TEAM 16 -> 4 PUAN
+TEAM 15 -> 2 PUAN
+TEAM 13 -> 1 PUAN
